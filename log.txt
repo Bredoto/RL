@@ -1,0 +1,1000 @@
+ 1082  g++ --srd=c++11 *.cpp -o foo
+ 1083  g++ --std=c++11 *.cpp -o foo
+ 1084  ./make2
+ 1085  javac Semaphoresriver.java
+ 1086  javac SemaphoresDriver.java
+ 1087  java SemaphoresDriver
+ 1088  ./make2
+ 1089  ./a.out
+ 1090  javac Main.java
+ 1091  ls
+ 1092  javac com/company/Main.java
+ 1093  java com.company.Main
+ 1094  clear
+ 1095  javac Driver.java
+ 1096  java Driver
+ 1097  javac Craps.java
+ 1098  java Craps
+ 1099  g++ --std=c++11 MyName-Hwrk12C.cpp -o f003
+ 1100  ./f003
+ 1101  ls
+ 1102  ./f003
+ 1103  ls
+ 1104  g++ --std=c++11 MyName-Hwrk12A.cpp -o foo1
+ 1105  ./foo1
+ 1106  g++ --std=c++11 MyName-Hwrk12B.cpp -o foo2
+ 1107  ./foo2
+ 1108  g++ --std=c++11 MyName-Hwrk12C.cpp -o foo3
+ 1109  ./foo3
+ 1110  clear
+ 1111  ls
+ 1112  javac GulaProgram2_1.java
+ 1113  java GulaProgram3_1.java
+ 1114  ls
+ 1115  java GulaProgram3_1.java
+ 1116  javac  GulaProgram3_1.java
+ 1117  java  GulaProgram3_1
+ 1118  javac Community.java
+ 1119  java Community
+ 1120  java Community cd "`printf "%b" '\0057media\0057sf\0137VBShare\0057171516java\0057update\0057Community\0057src'`"
+ 1121  ./make2
+ 1122  sudo mc
+ 1123  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1124  cat Prefix.in 
+ 1125  cat Postfix.out 
+ 1126  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1127  javac *
+ 1128  java Ma
+ 1129  java Main 
+ 1130  meld *
+ 1131  python3 Task\ #173002.py 
+ 1132  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1133  chmod -x *
+ 1134  python3 hw5.py 
+ 1135  python3 run_tests.py 
+ 1136  python run_tests.py 
+ 1137  python3 run_tests.py 
+ 1138  javac *
+ 1139  java Main 
+ 1140  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1141  meld *
+ 1142  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1143  mc
+ 1144  python *.py
+ 1145  ./make2
+ 1146  javac Membership.java
+ 1147  java Membership
+ 1148  javac com/textanalisys/Analyzer.java
+ 1149  java com.textanalisys.Analyzer
+ 1150  ./make2
+ 1151  sudo mc
+ 1152  make
+ 1153  ./myTestNL 
+ 1154  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1155  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out < Input.txt
+ 1156  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1157  mc
+ 1158  sudo mc
+ 1159  r
+ 1160  javac *
+ 1161  java Library
+ 1162  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1163  javac *
+ 1164  java hero.Game 
+ 1165  javac Program.java 
+ 1166  java P
+ 1167  java Program 
+ 1168  mc
+ 1169  sudo mc
+ 1170  ./make2
+ 1171  ./a.out
+ 1172  javac Runner.java input.txt o2.txt
+ 1173  javac Runner.java input.txt o2.txt 23
+ 1174  javac Runner.java input.txt o1.txt o2.txt
+ 1175  java Runner
+ 1176  java Runner input.txt o1.txt o2.txt
+ 1177  OA
+ 1178  ./make2
+ 1179  xs 173111java
+ 1180  javac *.java
+ 1181  ls
+ 1182  java *.class
+ 1183  java MITmmmmmEmployee
+ 1184  java MITnnnnnnEmployee
+ 1185  ./make2
+ 1186  ./a.out
+ 1187  sudo mc
+ 1188  javac TreeOfList.java
+ 1189  java TreeOfList
+ 1190  sudo mc
+ 1191  python *.py
+ 1192  python3 *.py
+ 1193  python3 *.py cd "`printf "%b" '\0057media\0057sf\0137VBShare\0057173198py'`"
+ 1194  javac Driver.java
+ 1195  java Driver
+ 1196  ./make2
+ 1197  clear
+ 1198  ls
+ 1199  ./a.out
+ 1200  sudo apt-get update
+ 1201  Shell
+ 1202  sudo add-apt-repository ppa:fenics-packages/fenics
+ 1203  sudo apt-get update
+ 1204  sudo apt-get install --no-install-recommends fenics
+ 1205  sudo apt-get dist-upgrade
+ 1206  sudo apt-get update
+ 1207  docker start -i myfenics
+ 1208  apt-get install docker
+ 1209  mc
+ 1210  `
+ 1211  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1212  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out proj5_truck_t1.txt proj5_delivery_t1.txt proj5_item_t1.txt
+ 1213  for x in *.h; do meld $x init/$x; done
+ 1214  for x in *.cpp; do meld $x init/$x; done
+ 1215  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1216  cat Tester.java 
+ 1217  ssh engraver@plus.hpc.knu.ua
+ 1218  mc
+ 1219  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out proj5_truck_t1.txt proj5_delivery_t1.txt proj5_item_t1.txt
+ 1220  python3 Lab4.py 
+ 1221  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out proj5_truck_t1.txt proj5_delivery_t1.txt proj5_item_t1.txt
+ 1222  geany *.cpp *.h &
+ 1223  mc
+ 1224  meld *
+ 1225  python3 FINAL.py 
+ 1226  javac *.java
+ 1227  java Main 
+ 1228  java sample.Main 
+ 1229  meld *
+ 1230  python3 hw6.py 
+ 1231  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1232  geany * &
+ 1233  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out 
+ 1234  sudo mc
+ 1235  sudo mc
+ 1236  ./eclipse
+ 1237  javac NemSys.java
+ 1238  ls
+ 1239  javac NimSys.java
+ 1240  ./make
+ 1241  clear
+ 1242  ls
+ 1243  ./make2
+ 1244  clear
+ 1245  ./eclipse
+ 1246  sudo mc
+ 1247  ./make2
+ 1248  ls
+ 1249  ./a.out proj5_truck_t1.txt proj5_delivery_t1.txt
+ 1250  g++ -Wall -pedantic -std=c++11 -g -lm *.cpp | more && valgrind --leak-check=full ./a.out proj5_truck_t1.txt proj5_delivery_t1.txt proj5_item_t1.txt
+ 1251  clc
+ 1252  clear
+ 1253  ./make2
+ 1254  python webpage.py
+ 1255  pip install flask gunicorn
+ 1256  ./make2
+ 1257  ./make2 cd "`printf "%b" '\0057media\0057sf\0137VBShare\0057173153c\0053\0053'`"
+ 1258  sudo apt-get update
+ 1259  sudo mc
+ 1260  sudo  mc
+ 1261  python3 huffman.py
+ 1262  ./make2
+ 1263  sudo mc
+ 1264  javac GUI.java
+ 1265  java GUI
+ 1266  ./SpiderSolitaireGame.java
+ 1267  OR
+ 1268  javac CofeeQueue/Simulation1.java
+ 1269  sudomc
+ 1270  sudo mc
+ 1271  javac Main.java
+ 1272  java Main
+ 1273  javac Main.java
+ 1274  java Main
+ 1275  sudo mc
+ 1276  sudo apt-get update
+ 1277  ./eclipse
+ 1278  sudo mc
+ 1279  javac Calculator.java
+ 1280  python3 *.py
+ 1281  ./make2
+ 1282  mc
+ 1283  ./make2
+ 1284  ls
+ 1285  python BankingApp.py 
+ 1286  ls
+ 1287  python3  BankingApp.py 
+ 1288  ./make2
+ 1289  mc
+ 1290  ls
+ 1291  python sentmodel.py 
+ 1292  python3 sentmodel.py 
+ 1293  python sentmodel.py 
+ 1294  python3 sentmodel.py 
+ 1295  python sentmodel.py 
+ 1296  clear
+ 1297  la
+ 1298  python twitterstream.py 
+ 1299  sudo pip3 install tweepy
+ 1300  sudo apt-get update
+ 1301  clear
+ 1302  ls
+ 1303  python3 twitterstream.py 
+ 1304  sudo pip install tweepy 
+ 1305  sudo pip install -U nltk
+ 1306  sudo pip3 install -U nltk
+ 1307  clear
+ 1308  la
+ 1309  python3 twitterstream.py 
+ 1310  clear
+ 1311  ls
+ 1312  python3 twitterstream.py 
+ 1313  ls
+ 1314  python3 sentmodel.py 
+ 1315  python sentmodel.py 
+ 1316  clear
+ 1317  ls
+ 1318  python sentmodel.py 
+ 1319  python twitterstream.py 
+ 1320  python3 twitterstream.py 
+ 1321  javac Main.java
+ 1322  java Mai
+ 1323  java Main
+ 1324  ls
+ 1325  python3 week8.py 
+ 1326  make
+ 1327  ./pic_sed
+ 1328  o
+ 1329  ./make2
+ 1330  ./a.out
+ 1331  sudo mc
+ 1332  ./make2
+ 1333  jupiter notebook
+ 1334  jupyter notebook
+ 1335  ./make2
+ 1336  [<0;25;21M./a.out -q -p -l Makefile
+ 1337  clear
+ 1338  ls
+ 1339  ./a.out -q -p -l Makefile
+ 1340  ./make2
+ 1341  ./p1
+ 1342  ./a.out p1Input.txt out
+ 1343  OB
+ 1344  make
+ 1345  ./make2
+ 1346  python solution.py
+ 1347  make
+ 1348  ./hw1pr4
+ 1349  mc
+ 1350  sudo mc
+ 1351  ls
+ 1352  jupyter notebook
+ 1353  mc
+ 1354  ./make2
+ 1355  ./a.out sfsd sdf
+ 1356  ./make2 cd "`printf "%b" '\0057media\0057sf\0137LINUX\0057198036\0057expert'`"
+ 1357  [<65;37;25M
+ 1358  ./make
+ 1359  javac
+ 1360  g++ --version
+ 1361  sudo apt-get update
+ 1362  mc
+ 1363  ./make2
+ 1364  ./a.out
+ 1365  ./make2
+ 1366  javac Server.java
+ 1367  javac Client.java
+ 1368  java Server 
+ 1369  ./a.out
+ 1370  o
+ 1371  jupyter notebook
+ 1372  mc
+ 1373  mc
+ 1374  java Client 
+ 1375  ./make2
+ 1376  javac Main.java
+ 1377  javac Main.java 
+ 1378  java Main 
+ 1379  ./a.out
+ 1380  clear
+ 1381  ls
+ 1382  g++ --std=c++11 main.cpp functions.cpp -o foo
+ 1383  ./make2
+ 1384  ./main
+ 1385  ./make2
+ 1386  ./make2
+ 1387  clear
+ 1388  ls
+ 1389  python program.py 
+ 1390  ./make2
+ 1391  ./a.out >test
+ 1392  ls
+ 1393  ./a.out > test
+ 1394  ./filem
+ 1395  python program.py 
+ 1396  ./a1_test_run_1.bash
+ 1397  ./a1_test_run_0.bash
+ 1398  ./a1_test_run_2.bash
+ 1399  ls
+ 1400  javac Main.java 
+ 1401  java Main 
+ 1402  javac M
+ 1403  ./make
+ 1404  javac Main.java
+ 1405  java Main
+ 1406  ls
+ 1407  java Main.java
+ 1408  clear
+ 1409  ls
+ 1410  java Main
+ 1411  clear
+ 1412  ls
+ 1413  java Main
+ 1414  ~~~ cd "`printf "%b" '\0057media\0057sf\0137VMShare\0057208980'`"
+ 1415  javac TestInheritance.java 
+ 1416  java TestInheritance 
+ 1417  ls
+ 1418  make -f Makefile 
+ 1419  ./ish
+ 1420  ./ish < ishrc
+ 1421  clear
+ 1422  javac Main.java 
+ 1423  java Main 
+ 1424  mc
+ 1425  ./make2
+ 1426  ./a.out <10
+ 1427  ls
+ 1428  ./a.out < 10
+ 1429  ./a.out 10
+ 1430  ./a.out 
+ 1431  ./make2
+ 1432  ./a.out
+ 1433  python run.py 
+ 1434  ls
+ 1435  clear
+ 1436  ls
+ 1437  g++ --std=c++11 assignment4.cpp -o foo
+ 1438  ./foo
+ 1439  clear
+ 1440  ls
+ 1441  g++ --std=c++11 lab11.cpp -o foo2
+ 1442  ./foo2
+ 1443  javac Main.java 
+ 1444  java Main 
+ 1445  javac Ma
+ 1446  javac Files.java 
+ 1447  sudo apt-get update
+ 1448  mc
+ 1449  make -f Makefile
+ 1450  ./runme.sh
+ 1451  ./test.sh
+ 1452  clear
+ 1453  ls
+ 1454  python friends.py 
+ 1455  python3 friends.py 
+ 1456  ./make2
+ 1457  python main.py
+ 1458  clear
+ 1459  ls
+ 1460  make -f makefile.txt 
+ 1461  ./make
+ 1462  LS
+ 1463  clear
+ 1464  ls
+ 1465  make -f makefile.txt 
+ 1466  ls
+ 1467  ./ptog
+ 1468  ./prog 
+ 1469  ./make2
+ 1470  ./make
+ 1471  clear
+ 1472  ls
+ 1473  g++ --std=c++11 pa07_std.cpp -o foo
+ 1474  g++ -std=c++11 pa07_std.cpp -o foo
+ 1475  ls
+ 1476  g++ -std=c++11 pa07.cpp -o foo
+ 1477  ./foo
+ 1478  g++ -std=c++11 pa07_std.cpp -o foo2
+ 1479  ./foo2
+ 1480  g++ -std=c++11 pa07extended.cpp -o foo3
+ 1481  ./foo3
+ 1482  clear
+ 1483  ls
+ 1484  25 tests passed
+ 1485  gcc -pedantic -Wall -ansi pre.c -o pre
+ 1486  ./pre
+ 1487  javac QueenSolver.java 
+ 1488  java QueenSolver 
+ 1489  ./make2
+ 1490  ckear
+ 1491  clear
+ 1492  ls
+ 1493  ./a.out 
+ 1494  ./make2
+ 1495  
+ 1496  jupyter notebook;
+ 1497  mc
+ 1498  javac GUI_Cook.java 
+ 1499  java GUI_Cook 
+ 1500  ./make2
+ 1501  ls
+ 1502  ./a.out -s fib 10
+ 1503  ./a.out -s fib 200
+ 1504  ./a.out -s fib 20
+ 1505  ./a.out -s fib 40
+ 1506  clear
+ 1507  la
+ 1508  javac Driver.java 
+ 1509  java Driver 
+ 1510  ls
+ 1511  javac FinalTemp.java 
+ 1512  java FinalTemp 
+ 1513  clear
+ 1514  ls
+ 1515  clear
+ 1516  ls
+ 1517  javac GUI_Customer.java 
+ 1518  java GUI_Customer 
+ 1519  clear
+ 1520  ./make
+ 1521  clear
+ 1522  ls
+ 1523  g++ *.cpp -Wall -g
+ 1524  ./test2.sh
+ 1525  ./make2
+ 1526  nc'
+ 1527  mc
+ 1528  ls
+ 1529  javac IndexedUnsortedList.java
+ 1530  java IndexedUnsortedList 
+ 1531  ls
+ 1532  python friends.py 
+ 1533  clear
+ 1534  ls
+ 1535  ./make2
+ 1536  clear
+ 1537  ls
+ 1538  javac ElectronicStoreApp.java 
+ 1539  java ElectronicStoreApp 
+ 1540  ./Appliance.java
+ 1541  clear
+ 1542  ls
+ 1543  javac CE203_2018_Ex1
+ 1544  javac CE203_2018_Ex1.java 
+ 1545  javac CE203_2018_Ex2.java 
+ 1546  java CE203_2018_Ex2
+ 1547  java CE203_2018_Ex1
+ 1548  clear
+ 1549  ls
+ 1550  gcc -Wall -o assignment3.c -lpthread
+ 1551  mc
+ 1552  ls
+ 1553  gcc -o main.c main
+ 1554  ls
+ 1555  gcc main.c - o  main
+ 1556  gcc main.c -o  main
+ 1557  ls
+ 1558  time main
+ 1559  ./make2
+ 1560  javac Main.java 
+ 1561  java Main 
+ 1562  ./make2
+ 1563  mc
+ 1564  ls
+ 1565  javac connectmodel/gui/BoardGUI.java 
+ 1566  java connectmodel.gui.BoardGUI 
+ 1567  javac connectmodel/controller/Controller.java 
+ 1568  java connectmodel.controller.Controller 
+ 1569  clear
+ 1570  ls
+ 1571  gcc -std=c11 -Wall main.c 
+ 1572  ./a.out
+ 1573  ls
+ 1574  gcc -Wall -pedantic -Wextra main.c -lptread
+ 1575  ./a.out
+ 1576  ld
+ 1577  ls
+ 1578  gcc -Wall -pedantic -Wextra main.c -lpthread
+ 1579  ./a.out
+ 1580  OB
+ 1581  ./make2
+ 1582  python3 ball_game\ \(1\).py 
+ 1583  ls
+ 1584  python3 game.py 
+ 1585  javac Tester.java 
+ 1586  java Tester 
+ 1587  javac Tester.java 
+ 1588  java Tester 
+ 1589  javac Tester.java 
+ 1590  java Tester 
+ 1591  clear
+ 1592  javac Factorial.java 
+ 1593  java Factorial 
+ 1594  make
+ 1595  ./main.out
+ 1596  python3 hw6_q1.py 
+ 1597  clear
+ 1598  ls
+ 1599  python3 sample.py 
+ 1600  python3 sample.py abba dAAA
+ 1601  python3 sample.py abba dAAA 2
+ 1602  python3 sample.py abba dAAA 3
+ 1603  python3 sample.pY BIOINFORMATINCS BOILINGFORMATICSA 1
+ 1604  CD 216263
+ 1605  clear
+ 1606  ls
+ 1607  javac CE203_2018_EX1.java 
+ 1608  javac CE203_2018_EX2.java 
+ 1609  java CE203_2018_EX1 
+ 1610  java CE203_2018_EX2
+ 1611  ./make2
+ 1612  ls
+ 1613  clear'ls
+ 1614  sf
+ 1615  quit
+ 1616  exit
+ 1617  clear
+ 1618  ls
+ 1619  javac amazons/Main.java 
+ 1620  clear
+ 1621  ls
+ 1622  make -f amazons/Makefile
+ 1623  ./make
+ 1624  clear
+ 1625  ls
+ 1626  python3 DSQ_Test.py 
+ 1627  ./make2
+ 1628  g++ -std=c++11 main_week2.cpp GeneTree.cpp -o foo
+ 1629  valgrind --leak-check=fuull ./foo
+ 1630  valgrind --leak-check=full ./foo
+ 1631  ./install.sh
+ 1632  python3 web-scraper.py 
+ 1633  python3 web-scraper.py google.com
+ 1634  python3 web-scraper.py url_list 
+ 1635  python web-scraper.py url_list 
+ 1636  clear
+ 1637  javac ArraySort.java 
+ 1638  java ArraySort 
+ 1639  javac SortComparisons.java 
+ 1640  java SortComparisons 
+ 1641  ckear
+ 1642  clear
+ 1643  ./make2
+ 1644  ls
+ 1645  clear
+ 1646  ls
+ 1647  ./a.out
+ 1648  clear
+ 1649  ls
+ 1650  ./make2
+ 1651  mc
+ 1652  python3 Homework5.py 
+ 1653  ./make2
+ 1654  ls
+ 1655  javac LinkedListStack.java 
+ 1656  java LinkedListStack 
+ 1657  clear
+ 1658  ls
+ 1659  javac ReversedSentences.java 
+ 1660  java ReversedSentences 
+ 1661  ./make2
+ 1662  clear
+ 1663  ls
+ 1664  javac -cp .:junit-4.12.jar src/cop2251/fall18/week6/salamin/TestCreditPayments.java 
+ 1665  clear
+ 1666  ls
+ 1667  ./make2
+ 1668  ./a.out 
+ 1669  ls
+ 1670  clear
+ 1671  ls
+ 1672  make -f Makefile 
+ 1673  ./nop
+ 1674  ls
+ 1675  ./nop <input.txt 
+ 1676  mc
+ 1677  ls
+ 1678  make -f makefile 
+ 1679  clear
+ 1680  ls
+ 1681  make all
+ 1682  clear
+ 1683  make all
+ 1684  clear
+ 1685  ls cd "`printf "%b" '\0057media\0057sf\0137VMShare\0057219445\0057update'`"
+ 1686  javac bankerMain.java 
+ 1687  ls
+ 1688  javac banker/bankerMain.java 
+ 1689  java banker.bankerMain  <input-1
+ 1690  ls
+ 1691  java banker.bankerMain  < input-1
+ 1692  java banker.bankerMain  
+ 1693  ls
+ 1694  javac Snake.java 
+ 1695  java Snake 
+ 1696  clear
+ 1697  ls
+ 1698  gcc first.c -o foo1
+ 1699  ./foo1
+ 1700  mc
+ 1701  ls
+ 1702  python3 piechart.py 
+ 1703  python3.6 piechart.py 
+ 1704  python3.4 piechart.py 
+ 1705  mc
+ 1706  idle3 test.c
+ 1707  gcc test.c -o foo
+ 1708  ./foo
+ 1709  idle3 test.c 
+ 1710  gcc test.c -o foo
+ 1711  idle3 test.c 
+ 1712  gcc test.c -o foo
+ 1713  ./foo
+ 1714  gcc test2.c -o foo
+ 1715  ./foo
+ 1716  gcc test2.c -o foo
+ 1717  ./foo
+ 1718  ls
+ 1719  g++ test3.cpp -o foo
+ 1720  ./foo
+ 1721  g++ test3.cpp -o foo
+ 1722  ./foo
+ 1723  ls
+ 1724  python test.py
+ 1725  ls
+ 1726  python
+ 1727  ./make
+ 1728  clear
+ 1729  ls
+ 1730  meld main223223.c main223121.c
+ 1731  ./make
+ 1732  idle4 make
+ 1733  idle3 make
+ 1734  ./make
+ 1735  idle3 make
+ 1736  ./make2
+ 1737  clear
+ 1738  ls
+ 1739  python ModelData.py pyramid-centered.txt
+ 1740  python3.4 ModelData.py pyramid-centered.txt
+ 1741  python
+ 1742  python3 --version
+ 1743  python3.4 ModelData.py pyramid-centered.txt
+ 1744  ./make
+ 1745  mc
+ 1746  gcc *.c -lpthread
+ 1747  ./a.out
+ 1748  ls
+ 1749  ./a.out sample.txt 
+ 1750  clear
+ 1751  javac RockPaperScissors.java 
+ 1752  java RockPaperScissors 
+ 1753  clear
+ 1754  ls
+ 1755  javac Lab6.java 
+ 1756  java Lab6 
+ 1757  clear
+ 1758  ls
+ 1759  javac TestBook.java 
+ 1760  java TestBook 
+ 1761  make
+ 1762  mc
+ 1763  ./make2
+ 1764  ./make
+ 1765  ./make2
+ 1766  mc
+ 1767  ./client localhost 6565
+ 1768  ./client localhost 6565
+ 1769  sudo apt-get install ocaml-nox
+ 1770  sudo apt-get install ocaml
+ 1771  ls
+ 1772  ocamlopt -o bloomtest str.cmxa bloom.ml bloomtest.ml 
+ 1773  ./bloomtest
+ 1774  make
+ 1775  python3.7 server.py 
+ 1776  python3.4 server.py 
+ 1777  python3.4 server.py 6565
+ 1778  ./make2
+ 1779  clear
+ 1780  ls
+ 1781  python3.4 Run.py 
+ 1782  ./make2
+ 1783  ./a.out
+ 1784  ./make2
+ 1785  ./a.out
+ 1786  make
+ 1787  ./ftserver 1212
+ 1788  mc
+ 1789  java ftclient localhost 1212 -l 7878
+ 1790  java ftclient localhost 1212 -g README 7878
+ 1791  ls
+ 1792  python3.4 part1.py 
+ 1793  python3.5 part1.py 
+ 1794  python3.4 part1.py 
+ 1795  python3. cd "`printf "%b" '\0057media\0057sf\0137VMShare\0057235115'`"4 part1.py 
+ 1796  ./make
+ 1797  ./make2
+ 1798  clear
+ 1799  ls
+ 1800  gcc Pretty.c  -o foo
+ 1801  gcc Primer.c  -o foo2
+ 1802  gcc Primer.c  -lm -o foo2
+ 1803  ./foo2
+ 1804  ./make2
+ 1805  clear
+ 1806  ls
+ 1807  chmod -x *
+ 1808  javac RaceGame.java 
+ 1809  java RaceGame 
+ 1810  make
+ 1811  ./words
+ 1812  ./make2
+ 1813  javac RaceGame.java 
+ 1814  j cd "`printf "%b" '\0057media\0057sf\0137VMShare\0057235347\00572'`"
+ 1815  javac Cipher.java 
+ 1816  java Cipher 
+ 1817  javac Cipher.java 
+ 1818  java Cipher 
+ 1819  javac Cipher.java 
+ 1820  java Cipher 
+ 1821  mc
+ 1822  ./test_call.3.in
+ 1823  clear
+ 1824  ls
+ 1825  ./test.sh
+ 1826  python3 autograder.py -q q2
+ 1827  python3.7 autograder.py -q q2
+ 1828  python3.4 autograder.py -q q2
+ 1829  clear
+ 1830  ls
+ 1831  make
+ 1832  ./a.out
+ 1833  ./a.out 1
+ 1834  ./a.out 12
+ 1835  ./a.out 2
+ 1836  ./a.out 8
+ 1837  ./a.out 1
+ 1838  clear
+ 1839  make
+ 1840  ls
+ 1841  ./a.2
+ 1842  ./a2
+ 1843  make
+ 1844  clear
+ 1845  ls
+ 1846  ./test.sh 
+ 1847  clear
+ 1848  ls
+ 1849  ,ake
+ 1850  clear
+ 1851  make
+ 1852  ./test.sh
+ 1853  javac cs520/hw3/part1/StringTest.java 
+ 1854  java cs520.hw3.part1.StringTest 
+ 1855  javac cs520/hw3/part2/Test.java 
+ 1856  java cs520.hw3.part2.Test 
+ 1857  clear
+ 1858  make
+ 1859  ./a.out
+ 1860  make
+ 1861  ./a1 room.txt 
+ 1862  ./a1 r
+ 1863  make
+ 1864  ls
+ 1865  ./a1 room3
+ 1866  ./a1 room2
+ 1867  ls
+ 1868  ./a1 room.txt 
+ 1869  ./a1 room3.txt 
+ 1870  ./a1 room3
+ 1871  ./a1 room3.txt 
+ 1872  ./a1 room2.txt 
+ 1873  ./a1 room2
+ 1874  lear
+ 1875  ls
+ 1876  cmake . && make
+ 1877  ls
+ 1878  ./cmake-3.15.2-Linux-x86_64.sh
+ 1879  make
+ 1880  clear
+ 1881  ls
+ 1882  ./tom_and_jerry  room.txt
+ 1883  javac FlooringGUI.java 
+ 1884  java Flooring
+ 1885  java FlooringGUI 
+ 1886  java -jar keygen-1.0.jar OlyaLab
+ 1887  clear
+ 1888  ls
+ 1889  java Server 
+ 1890  javac Server.java 
+ 1891  java Server 
+ 1892  mc
+ 1893  javac Client.java 
+ 1894  java Client 
+ 1895  javac App.java 
+ 1896  java App 
+ 1897  javac Client.java 
+ 1898  java C
+ 1899  java Client 
+ 1900  pip install opencv-python
+ 1901  pip3 install numpy or apt-get install python3-numpy
+ 1902  apt-get install python3-OpenCV
+ 1903  sudo apt-get install python3-OpenCV
+ 1904  mc
+ 1905  cd`cd 253552
+ 1906  exit
+ 1907  quit
+ 1908  ./make2
+ 1909  git --version
+ 1910  sudo add-apt-repository -y ppa:git-core/ppa
+ 1911  sudo apt-get update
+ 1912  sudo apt-get install git -y
+ 1913  git --version
+ 1914  sudo aptitude install curl
+ 1915  sudo aptitude install git-core build-essential libgdbm-dev libn curses5-dev automake libtool bison libffi-dev nodejs
+ 1916  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1917  apt-get install gnupg2
+ 1918  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1919  \curl -sSL https://get.rvm.io | bash -s stable
+ 1920  \curl -sSL https://get.rvm.io | bash -s stable --rails
+ 1921  ruby -v
+ 1922  rvm list
+ 1923  sudo apt update
+ 1924  sudo apt install ruby-full
+ 1925  ruby --v
+ 1926  ruby -v
+ 1927  sudo apt install git curl libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
+ 1928  curl -sL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer | bash -
+ 1929  sudo apt update
+ 1930  sudo apt install curl g++, gcc, autoconf, automake, bison, libc6-dev, libffi-dev, libgdbm-dev, libncurses5-dev, libsqlite3-dev, libtool, libyaml-dev, make, pkg-config, sqlite3, zlib1g-dev, libgmp-dev, libreadline-dev, libssl-dev
+ 1931  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1932  source ~/.rvm/scripts/rvm
+ 1933  ruby -v
+ 1934  sudo apt-add-repository ppa:brightbox/ruby-ng
+ 1935  udo apt-get update
+ 1936  sudo apt-get update
+ 1937  sudo apt-get install ruby2.4
+ 1938  ruby -v
+ 1939  gem -v
+ 1940  gem update --system
+ 1941  gem install rails
+ 1942  rails -v
+ 1943  gem list rails
+ 1944  sudo apt install curl
+ 1945  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ 1946  gem install rails -v 6.0.2.2
+ 1947  git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+ 1948  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+ 1949  echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+ 1950  exec $SHELL
+ 1951  sudo mc
+ 1952  git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+ 1953  rbenv install 2.7.1
+ 1954  rbenv global 2.7.1
+ 1955  ruby -v
+ 1956  gem install bundler
+ 1957  git -v
+ 1958  git --version
+ 1959  gem install rails -v 6.0.2.2
+ 1960  rbenv rehash
+ 1961  rails -v
+ 1962  sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+ 1963  sudo apt install postgresql-11 libpq-dev
+ 1964  rails new myapp
+ 1965  udo apt-get install nodejs
+ 1966  sudo apt-get install nodejs
+ 1967  nodejs --version
+ 1968  ls
+ 1969  mc
+ 1970  git status
+ 1971  heroku log
+ 1972  n
+ 1973  git status
+ 1974  gem install bundler
+ 1975  sudo gem install bundler
+ 1976  git add .
+ 1977  git commit -am "sotto"
+ 1978  git push heroku master
+ 1979  ls
+ 1980  git clone https://github.com/Bredoto/RL.git
+ 1981  cd RL
+ 1982  ls
+ 1983  sqlite3 --version
+ 1984  postgres -v
+ 1985  sudo apt -y install vim bash-completion wget
+ 1986  sudo apt-get install vim bash-completion wget
+ 1987  sudo apt -y upgrade
+ 1988  sudo apt-get  -y upgrade
+ 1989  sudo reboot
+ 1990  mc
+ 1991  postgres --version
+ 1992  sudo apt update
+ 1993  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+ 1994  echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" |sudo tee  /etc/apt/sources.list.d/pgdg.list
+ 1995  sudo apt update
+ 1996  sudo apt -y install postgresql-12 postgresql-client-12
+ 1997  sudo apt-get install postgresql-12 postgresql-client-12
+ 1998  sudo apt install postgresql postgresql-contrib
+ 1999  sudo -i -u postgres
+ 2000  rails -v
+ 2001  rails new hello
+ 2002  ls
+ 2003  cd hello
+ 2004  ls
+ 2005  git init
+ 2006  git commit -m "first commit"
+ 2007  git add .
+ 2008  git commit -m "first commit"
+ 2009  git remote add origin https://github.com/Bredoto/RL.git
+ 2010  git push -u origin master
+ 2011  idle3 index.html
+ 2012  bundle exec rails s
+ 2013  heroku apps
+ 2014  git status
+ 2015  git add .
+ 2016  git commit -am "sr"
+ 2017  herocu create
+ 2018  heroku create
+ 2019  git status
+ 2020  git push heroku master
+ 2021  git add -all
+ 2022  git add .
+ 2023  git commit -am "sqllite detele"
+ 2024  git push origin master
+ 2025  git push heroku master
+ 2026  bundler install
+ 2027  git status
+ 2028  git add .
+ 2029  git commit -am "fd"
+ 2030  git push heroku master
+ 2031  bundle install
+ 2032  git add .
+ 2033  git commit -a -m "ff"
+ 2034  git push -f heroku
+ 2035  git status
+ 2036  git push origin master
+ 2037  pg -version
+ 2038  git status
+ 2039  git add .
+ 2040  git commit -am "df"
+ 2041  bundle update
+ 2042  sudo bundle update
+ 2043  gem install bundler
+ 2044  sudo gem install bundler
+ 2045  gem update bundler
+ 2046  ./bin/spring stop
+ 2047  rvm list
+ 2048  rbenv rehash
+ 2049  gem uninstall bundler
+ 2050  sudo gem uninstall bundler
+ 2051  gem uninstall bundler
+ 2052  gem install bundler
+ 2053  sudo gem install bundler
+ 2054  ruby -v
+ 2055  sudo apt-get remove ruby rails
+ 2056  ruby -v
+ 2057  rails -v
+ 2058  gem -v
+ 2059  bundle update
+ 2060  sudo apt-get uninstall bundler
+ 2061  sudo apt-get remove ruby rails gem bundler
+ 2062  sudo apt-get autoremove bundler
+ 2063  sudo apt-get autoremove ruby
+ 2064  sudo apt-get autoremove rails
+ 2065  ruby -v
+ 2066  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 2067  sudo gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 2068  \curl -sSL https://get.rvm.io | bash -s stable
+ 2069  sudo \curl -sSL https://get.rvm.io | bash -s stable
+ 2070  \curl -sSL https://get.rvm.io | bash -s stable
+ 2071  rvm implode
+ 2072  rvm implode --force
+ 2073  sudo rm /.rbenv
+ 2074  ls
+ 2075  ruby -v
+ 2076  bundler install
+ 2077  sudo apt-get remove bundler
+ 2078  sudo apt-get remove bundle
+ 2079  which history
+ 2080  history
+ 2081  history > log.txt
